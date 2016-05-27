@@ -1,6 +1,6 @@
 # Elastic Beanstalk Example App
 
 * This is a Elastic Beanstalk example application deploying:
-  * PHP7 + Webserver
-  * with the following PHP modules: memcached, opcache, pdo mysql, opcache, mbstring
+  * PHP7 + nginx
+  * with the following PHP modules: memcached, opcache, mysql, opcache, mbstring
   * composer
